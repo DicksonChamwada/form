@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,300&family=Roboto:ital,wght@0,500;1,700&family=Ubuntu:ital,wght@0,400;0,500;1,400&display=swap'); 
+
+ body{
+   background-image: url(image/laptop.jpg);
+   height: 100vh;
+}
+
+h3{
+    text-transform: uppercase;
+    font-size: 28px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button:hover{
+color:red
+}
